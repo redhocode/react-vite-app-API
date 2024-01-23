@@ -23,7 +23,7 @@ export function NavBar( {onSearch}) {
     
     >
       <div className="flex flex-wrap items-center justify-between text-red-500 gap-y-4">
-       <img src="./src/assets/re-c.svg" className="w-10 h-10" alt="" />
+       <img src="./src/assets/logo.png" className="h-10 10 w-" alt="" />
         <Typography
           as="a"
           href=""
